@@ -4,5 +4,7 @@ This project demonstrates the practical use of Microsoft Excel for Data Analysis
 
 
 <img width="1352" height="643" alt="image" src="https://github.com/user-attachments/assets/5183cf4a-be0d-4f89-9580-616ab30a97c7" />
+<img width="1222" height="1043" alt="image" src="https://github.com/user-attachments/assets/f56c30eb-016d-4a7c-8968-0f492fa2a3b1" />
+
 
 
